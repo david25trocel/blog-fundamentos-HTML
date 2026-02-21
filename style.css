@@ -1,0 +1,10 @@
+/* selectro por etiquetas */
+header h1{
+    color: blue; 
+}
+section h2 {color: red}
+/* Sekector por clase */
+.subtitulo {color:green;
+}
+/*selector por ID */
+#pie-de-pagina {color: orange}
