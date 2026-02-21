@@ -19,3 +19,4 @@ Cómo ver el proyecto localmente
 python -m http.server 8000
 # luego abrir http://localhost:8000/blog.html
 ```
+Actualizados los colores del estilo
